@@ -1,0 +1,51 @@
+PODS:
+  - Alamofire (5.6.4)
+  - GRDB.swift (6.10.2):
+    - GRDB.swift/standard (= 6.10.2)
+  - GRDB.swift/standard (6.10.2)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (15.0.0):
+    - Moya/Core
+    - RxSwift (~> 6.0)
+  - Nuke (10.7.1)
+  - ProgressHUD (13.6.2)
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+
+DEPENDENCIES:
+  - GRDB.swift
+  - Moya/RxSwift
+  - Nuke
+  - ProgressHUD
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - GRDB.swift
+    - Moya
+    - Nuke
+    - ProgressHUD
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 4e95d97098eacb88856099c4fc79b526a299e48c
+  GRDB.swift: d2fe6ff28b6d8e5b43104186752d88e94ef0e290
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  Nuke: 279f17a599fd1c83cf51de5e0e1f2db143a287b0
+  ProgressHUD: 355915c8f033e626788fa9b0d99d06e8691595ab
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+
+PODFILE CHECKSUM: 474f0e0f825afc3912829a870ff1f9f19939f9e1
+
+COCOAPODS: 1.12.1
